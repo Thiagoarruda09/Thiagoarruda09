@@ -14,7 +14,7 @@ Sou estudante de full-stack na instituição de ensino Digital College com foco 
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -22,7 +22,7 @@ Sou estudante de full-stack na instituição de ensino Digital College com foco 
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -84,7 +84,7 @@ Sou estudante de full-stack na instituição de ensino Digital College com foco 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=Thiagoarruda09&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
