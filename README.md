@@ -79,7 +79,7 @@ Sou estudante de full-stack na instituição de ensino Digital College com foco 
 
 ### 📊 Estatísticas
 
-<p>
+<p style="display: flex;">
   <img 
     align="left" 
     alt="GitHub Stats" 
