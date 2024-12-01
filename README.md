@@ -8,7 +8,7 @@ Sou estudante de full-stack na instituição de ensino Digital College com foco 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias Front-end
 
 <img 
     align="left" 
@@ -71,6 +71,25 @@ Sou estudante de full-stack na instituição de ensino Digital College com foco 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+ <br/>
+ ### 🤖 Linguagens e Tecnologias Back-end
+ 
+ <img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+/>
+ <img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
 
 
