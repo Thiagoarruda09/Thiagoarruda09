@@ -1,6 +1,6 @@
 #  Thiago Arruda
 
-**`Desenvolvedor Web Jr. FullStack`**
+**`Desenvolvedor Web. FullStack`**
 
 Sou estudante de full-stack na instituição de ensino Digital College com foco em desenvolvimento Web Apaixonado por resolver problemas complexos e aprender novas tecnologias, tenho experiência em: HTML5 | CSS3 | JAVASCRIPT | REACT JS | NODE JS | mySQL.
 
